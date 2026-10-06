@@ -1,19 +1,20 @@
 # 👋 Hi, I'm Renuka S
 
-### Associate Engineer - GenAI Developer | AI & RAG Specialist | Published Researcher
+### Associate Engineer - GenAI Developer | Agentic AI & RAG Specialist | Published Researcher
 
-📍 Namakkal, Tamil Nadu, India &nbsp;|&nbsp; 📧 renuit22113@gmail.com &nbsp;|&nbsp; 🔗 [linkedin.com/in/renuka-s-09b954276](https://linkedin.com/in/renuka-s-09b954276) &nbsp;|&nbsp; 🌐 [Portfolio](https://itrenukas.github.io/Portfolio/)
+📍 Namakkal , Tamil Nadu, India &nbsp;|&nbsp; 📧 renuit22113@gmail.com &nbsp;|&nbsp; 🔗 [linkedin.com/in/renuka-s-09b954276](https://linkedin.com/in/renuka-s-09b954276) &nbsp;|&nbsp; 🌐 [Portfolio](https://itrenukas.github.io/Portfolio/)
 
 ---
 
 ### 🛡️ About Me
 
 * 💼 **Associate Engineer – GenAI Developer** @ Virtusa — Enterprise RAG architecture, AWS SageMaker modernization (NYL Project), and advanced prompt engineering
+* 🤖 **Agentic AI Specialist** — Designing stateful multi-agent workflows, self-correcting RAG loops, and orchestrated autonomous agents using **LangGraph**, **CrewAI**, and **AutoGen**
 * 🎓 **B.Tech in Information Technology** — Mahendra Engineering College (2021–2025) | 90.40%
 * ☁️ **Google Cloud Gen AI Academy APAC Graduate (Cohort 3)** — Hands-on specialization in accelerating AI with Cloud Run, orchestrating intelligent agents, and deploying serverless GenAI solutions
 * 👥 **Team Lead** @ Virtusa Jatayu Project (Runner-Up) — LLM test generation with Groq API, Selenium, Locust & Jenkins CI/CD
 * 🔬 **Published Researcher** — 2 International Conference Papers on Computer Vision & Machine Learning diagnostics (ICEMT '24, ICIECST '25)
-* 🎯 **Specialized in:** RAG Architecture • Intelligent Agents • LLM Optimization • Cloud AI Deployment (AWS & GCP)
+* 🎯 **Specialized in:** Multi-Agent Systems (LangGraph / CrewAI / AutoGen) • Advanced RAG Architecture • Cloud AI Deployment (AWS & GCP)
 
 ---
 
@@ -33,21 +34,26 @@
 
 ### 🧰 Technical Skills
 
-**Generative AI, LLMs & Machine Learning**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Agentic AI, LLMs & Orchestration Frameworks**  
+![LangGraph](https://img.shields.io/badge/LangGraph-232F3E?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white)
 
-**Cloud, Backend & Frameworks**  
+**Machine Learning & Data Science**  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud, Backend & Deployment**  
 ![Google Cloud Run](https://img.shields.io/badge/Google%20Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **DevOps, CI/CD & Testing**  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
