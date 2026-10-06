@@ -2,7 +2,7 @@
 
 ### Associate Engineer - GenAI Developer | Agentic AI & RAG Specialist | Published Researcher
 
-📍 Namakkal , Tamil Nadu, India &nbsp;|&nbsp; 📧 renuit22113@gmail.com &nbsp;|&nbsp; 🔗 [linkedin.com/in/renuka-s-09b954276](https://linkedin.com/in/renuka-s-09b954276) &nbsp;|&nbsp; 🌐 [Portfolio](https://itrenukas.github.io/Portfolio/)
+📍 Tamil Nadu, India &nbsp;|&nbsp; 📧 renuit22113@gmail.com &nbsp;|&nbsp; 🔗 [linkedin.com/in/renuka-s-09b954276](https://linkedin.com/in/renuka-s-09b954276) &nbsp;|&nbsp; 🌐 [Portfolio](https://itrenukas.github.io/Portfolio/)
 
 ---
 
